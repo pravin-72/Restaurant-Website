@@ -50,18 +50,12 @@ Keeping up with the latest web development trends, I incorporate cutting-edge te
 Clone the project
 
 ```bash
-  git clone https://github.com/your-username/restaurant-website.git
+  git clone https://github.com/pravin-72/Restaurant-Website.git
 
 ```
 
 Go to the project directory
 
 ```bash
-  cd restaurant-website
+  cd Restaurant-Website
 ```
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at **@pravin__charm__03** **[Instagram]**
-
